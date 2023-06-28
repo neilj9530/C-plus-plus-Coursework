@@ -1,2 +1,2 @@
-# SQL-Course-work
-Homework and other projects in SQL 
+# C++ coursework
+Homework and other projects in C++
